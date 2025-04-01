@@ -27,7 +27,7 @@ This Python project validates credit card numbers using the **Luhn Algorithm** a
 ### Run the Script
 Clone the repository and navigate to the project directory:
 ```sh
-$ git clone https://github.com/yourusername/credit-card-checker.git
+$ git clone https://github.com/albertrono/credit-card-checker.git
 $ cd credit-card-checker
 ```
 
@@ -50,9 +50,6 @@ Valid: Visa Credit Card
 ## Contribution
 Feel free to fork this repository, open issues, and submit pull requests.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
-[Your Name](https://github.com/yourusername)
+[Your Name](https://github.com/albertrono)
 
